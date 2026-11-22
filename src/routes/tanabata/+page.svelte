@@ -3,7 +3,7 @@
   import Card from "$lib/components/card/card.svelte";
   import Container from "$lib/components/Container.svelte";
   import Button from "$lib/components/Button.svelte";
-  import { wish } from "$lib/components/wish";
+  
   import { fade } from "svelte/transition";
   import CardHeader from "$lib/components/card/card-header.svelte";
   import CardTitle from "$lib/components/card/card-title.svelte";

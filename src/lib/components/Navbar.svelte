@@ -3,7 +3,7 @@
   import Button, { buttonVariants } from "./Button.svelte";
 </script>
 
-<header class="px-4 md:px-6 bg-[#ff8fab] sticky top-0">
+<header class="px-4 md:px-6 bg-[#ff8fab] sticky top-0 z-[100]">
   <div
     class="max-w-340 mx-auto w-full px-4 sm:px-6 flex justify-between h-14 items-center gap-4"
   >
@@ -36,7 +36,7 @@
     <div class="flex items-center">
       <Button variant="outline">
         <IconTorii />
-        Group 3
+        Group 25.26
       </Button>
     </div>
   </div>
